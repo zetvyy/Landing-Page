@@ -53,3 +53,10 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.galery {
+  width: 16rem;
+  height: 30rem;
+  border-radius: 15px;
+  margin-top: 20px;
+}
