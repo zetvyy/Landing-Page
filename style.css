@@ -2,7 +2,7 @@
 
 html,
 body {
-  height: 4000px;
+  height: 100%;
   font-size: 1rem;
   font-family: "Fira Sans", sans-serif;
 }
@@ -52,6 +52,10 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+}
+
+.gallery {
+  background-color: #eaeaea;
 }
 
 .galery {
